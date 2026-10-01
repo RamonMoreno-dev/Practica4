@@ -1,1 +1,1 @@
-Estado del proyecto: versión principal
+Estado del proyecto: versión principal y experimental 
